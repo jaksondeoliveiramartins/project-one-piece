@@ -13,7 +13,3 @@ O que precisamos fazer? - quando passar o mouse em cima do personagem na lista t
         passo 2 - alterar a imagem do personagem grande
         passo 3 - alterar o nome do personagem grande
         passo 4 - alterar a descrição do personagem grande
-*/
-
-// OBJETIVO 1 - quando passar o mouse em cima do personagem na listagem, devemos selecioná-lo
-// passo 1 - pegar os personagens no JS pra poder verificar quando o usuário passar o mouse em cima de um deles
