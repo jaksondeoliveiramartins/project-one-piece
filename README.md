@@ -1,4 +1,9 @@
-# project-one-piece
+# project-one-piece:
+## Como Utilizar:
+Git clone.
+```
+git clone url
+```
 O que precisamos fazer? - quando passar o mouse em cima do personagem na lista temos que adicionar a borda azul de seleção na imagem pequena do personagem e mostrar a imagem, o nome e o texto grande do personagem que está selecionado
 
     OBJETIVO 1 - quando passar o mouse em cima do personagem na listagem, devemos selecioná-lo
